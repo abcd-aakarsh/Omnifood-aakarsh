@@ -1,0 +1,48 @@
+<div class="testimonials">
+          <div class="container ">
+            <span class="subheading">TESTIMONIALS</span>
+            <h2 class="heading-secondary">Once you try it, you can't go back</h2>
+          </div>
+          <div class="container grid2 grid--2--col">
+            <div class="test"><img src="./img/customers/ben.jpg" alt="#" class="test-img">
+              <p class="test-text">The AI algorithm is crazy good, it chooses the right meals for me every time. It's
+                amazing not to worry about food anymore!
+              </p>
+              <span class="test-name">— Ben Hadley</span>
+            </div>
+            <div class="test"><img src="./img/customers/dave.jpg" alt="#" class="test-img">
+              <p class="test-text">Inexpensive, healthy and great-tasting meals, without even having to order manually!
+                It feels truly magical.</p>
+              <span class="test-name">— Dave Bryson</span>
+            </div>
+            <div class="test"><img src="./img/customers/hannah.jpg" alt="#" class="test-img">
+              <p class="test-text">I got Omnifood for the whole family, and it frees up so much time! Plus, everything
+                is organic and vegan and without plastic.</p>
+              <span class="test-name">— Hannah Smith</span>
+            </div>
+            <div class="test"><img src="./img/customers/steve.jpg" alt="#" class="test-img">
+              <p class="test-text">Omnifood is a life saver! I just started a company, so there's no time for cooking. I
+                couldn't live without my daily meals now!
+
+              </p>
+              <span class="test-name"> — Steve Miller</span>
+            </div>
+
+
+          </div>
+        </div>
+        <div class="gallery grid2 grid--3--col">
+          <img src="./img/gallery/gallery-1.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-2.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-3.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-4.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-5.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-6.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-7.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-8.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-9.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-10.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-11.jpg" alt="#" class="gallery-img">
+          <img src="./img/gallery/gallery-12.jpg" alt="#" class="gallery-img">
+
+        </div>
